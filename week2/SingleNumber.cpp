@@ -11,7 +11,7 @@
 // Output: 4
 
 
-// solution
+// solutiongi
 // sort array to place same element togather
 // then find the distict one;
 
