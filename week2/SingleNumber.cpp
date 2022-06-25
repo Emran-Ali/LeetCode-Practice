@@ -30,5 +30,5 @@ public:
     }
 };
 
-time complexity: O(n log n) bcz sort;
-space complexity: O(1);
+// time complexity: O(n log n) bcz sort;
+// space complexity: O(1);
